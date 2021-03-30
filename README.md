@@ -1,5 +1,5 @@
 # SQL--WideWorldImporters
-Some queries in the famous WideWorldImporters relational database
+Some queries in the famous WideWorldImporters relational database  
 1.sql --> Monitoring consistency between orders and their attached invoices  
 2.sql --> Updating a query to see if the previous consistency is legitimate and gets updated  
 3.sql --> Writing a T-SQL stored procedure  
